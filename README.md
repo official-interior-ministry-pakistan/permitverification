@@ -46,11 +46,7 @@
 <br>
 <span style="font-size:14px;"><strong><span style="background-color: transparent; text-align: left;"><span style="font-family: Lora, serif;">Issue Date:&nbsp; &nbsp; &nbsp;24 / 04 / 2024</span></span></strong><br>
 <span style="background-color: transparent; text-align: left;"><span style="font-family: Lora, serif;"><strong>Expiry Date:&nbsp; &nbsp;13 / 09 / 2027</strong></span></span></span>&nbsp;</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </div>
 </div>
 </div>
